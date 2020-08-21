@@ -21,6 +21,13 @@ stupid_strategy/ # 牛志刚同学的简单策略
     dma.py # 绘制任意天的双均线
     runback.py # 基于backtrade的回测函数
     stupidmethod.py # 简单策略的优化与对比
+...
+data / #董思雯同学的建模数据
+    factor_data.csv
+    init_data.csv
+    one_data.csv
+...
+dsw.py # 董思雯同学的建模
 ```
      
 # Build With
